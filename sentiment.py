@@ -28,5 +28,5 @@ else:
 print(f"Sentiment: {sentiment}")
 print(f"Positive Score: {sentiment_scores['pos']}")
 print(f"Negative Score: {sentiment_scores['neg']}")
-print(f"Neutral Score: {sentiment_scores['neu']}")
+print(f"Neutral Score: {sentiment_scores['neu']}") 
 print(f"Compound Score: {sentiment_scores['compound']}")
